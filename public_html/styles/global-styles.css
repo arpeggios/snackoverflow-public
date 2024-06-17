@@ -3,6 +3,10 @@ body {
   color: #fff;
 }
 
+h1 {
+  font-weight: normal;
+}
+
 header {
   margin: 0;
   padding: 10px 15px;
@@ -24,11 +28,11 @@ a {
 }
 
 header a.logo {
-  font-weight: 600;
+  font-weight: normal;
 }
 
 header section a {
   text-decoration: none;
-  font-weight: 600;
+  font-weight: normal;
   margin-right: 10px;
 }
